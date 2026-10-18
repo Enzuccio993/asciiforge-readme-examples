@@ -1,0 +1,3 @@
+Create a banner.
+Write a useful README.
+Share your project.
