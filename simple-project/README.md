@@ -8,35 +8,33 @@
                                                              
 ```
 
-A small Python program that prints a greeting. A starting point for a first project.
+Un piccolo programma Python che stampa un saluto: una base essenziale per un primo progetto.
 
-## Requirements
+[Tutti gli esempi](../README.md) · [Utilizzo](#utilizzo) · [Risultato atteso](#risultato-atteso)
 
-Python 3.9 or newer. No third-party packages.
+## Requisiti
 
-## Installation
+Python 3.9 o successivo. Non servono pacchetti aggiuntivi.
 
-From the root of this examples collection:
+## Utilizzo
+
+Dalla radice della raccolta:
 
 ```sh
 cd simple-project
-python --version
-```
-
-## Usage
-
-```sh
 python hello.py
 ```
 
-Expected output:
+Su alcuni sistemi il comando Python è `python3` o `py`.
+
+## Risultato atteso
 
 ```text
 Hello, ASCIIForge!
 ```
 
-## Contributing
+## Stato e modifiche
 
-Describe the problem and steps to reproduce it when proposing a change. Run the example before submitting your changes.
+Esempio didattico con una funzione circoscritta. Quando proponi una modifica, descrivi il comportamento e verifica che il comando documentato produca il risultato atteso.
 
-[Edit a README like this in ASCIIForge](https://asciiforge.com/en/ascii-for-github-readme/?text=HELLO+PROJECT&font=Small&upper=1&frame=none&starter=simple#readme-builder)
+[Modifica un README come questo in ASCIIForge](https://asciiforge.com/en/ascii-for-github-readme/?text=HELLO+PROJECT&font=Small&upper=1&frame=none&starter=simple#readme-builder)

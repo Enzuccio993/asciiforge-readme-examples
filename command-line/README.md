@@ -8,35 +8,33 @@
                                                  
 ```
 
-A Python command-line tool that counts the lines in a UTF-8 text file.
+Uno strumento da terminale che conta le righe di un file di testo UTF-8.
 
-## Requirements
+[Tutti gli esempi](../README.md) · [Utilizzo](#utilizzo) · [Risultato atteso](#risultato-atteso)
 
-Python 3.9 or newer. No third-party packages.
+## Requisiti
 
-## Installation
+Python 3.9 o successivo. Non servono pacchetti aggiuntivi.
 
-From the root of this examples collection:
+## Utilizzo
+
+Dalla radice della raccolta:
 
 ```sh
 cd command-line
-python --version
-```
-
-## Usage
-
-```sh
 python line_count.py sample.txt
 ```
 
-Expected output:
+Su alcuni sistemi il comando Python è `python3` o `py`.
+
+## Risultato atteso
 
 ```text
 3 lines
 ```
 
-## Contributing
+## Stato e modifiche
 
-Describe the problem and steps to reproduce it when proposing a change. Run the example before submitting your changes.
+Esempio didattico con una funzione circoscritta. Quando proponi una modifica, descrivi il comportamento e verifica che il comando documentato produca il risultato atteso.
 
-[Edit a README like this in ASCIIForge](https://asciiforge.com/en/ascii-for-github-readme/?text=LINE+COUNT&font=Small&upper=1&frame=none&starter=cli#readme-builder)
+[Modifica un README come questo in ASCIIForge](https://asciiforge.com/en/ascii-for-github-readme/?text=LINE+COUNT&font=Small&upper=1&frame=none&starter=cli#readme-builder)

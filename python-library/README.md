@@ -8,35 +8,33 @@
                                             
 ```
 
-A small Python module that turns a title into a URL slug, using only the standard library.
+Un modulo Python che trasforma un titolo in uno slug per URL, usando la libreria standard.
 
-## Requirements
+[Tutti gli esempi](../README.md) · [Utilizzo](#utilizzo) · [Risultato atteso](#risultato-atteso)
 
-Python 3.9 or newer. No third-party packages.
+## Requisiti
 
-## Installation
+Python 3.9 o successivo. Non servono pacchetti aggiuntivi.
 
-From the root of this examples collection:
+## Utilizzo
+
+Dalla radice della raccolta:
 
 ```sh
 cd python-library
-python --version
-```
-
-## Usage
-
-```sh
 python example.py
 ```
 
-Expected output:
+Su alcuni sistemi il comando Python è `python3` o `py`.
+
+## Risultato atteso
 
 ```text
 hello-asciiforge
 ```
 
-## Contributing
+## Stato e modifiche
 
-Describe the problem and steps to reproduce it when proposing a change. Run the example before submitting your changes.
+Esempio didattico con una funzione circoscritta. Quando proponi una modifica, descrivi il comportamento e verifica che il comando documentato produca il risultato atteso.
 
-[Edit a README like this in ASCIIForge](https://asciiforge.com/en/ascii-for-github-readme/?text=TEXT+SLUG&font=Small&upper=1&frame=none&starter=library#readme-builder)
+[Modifica un README come questo in ASCIIForge](https://asciiforge.com/en/ascii-for-github-readme/?text=TEXT+SLUG&font=Small&upper=1&frame=none&starter=library#readme-builder)
